@@ -3,11 +3,11 @@ An eeprom memory 24LC256 is managed through I2C to write 1000 data memory, read 
 
 # Examples of the app in Matlab
 ## With a sine signal in a memory
-![](/Seno_memory.jpg)
+![](/Seno_memory.jpeg)
 ## With a sauqre signal in a memory
-![](/Square_memory.jpg)
+![](/Square_memory.jpeg)
 ## With a sawtooth signal in a memory
-![](/Sawtooth_memory.jpg)
+![](/Sawtooth_memory.jpeg)
 
 ## Build with 🛠️
 * [C] - The programming language used
