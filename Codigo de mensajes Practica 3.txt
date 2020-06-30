@@ -1,0 +1,25 @@
+write1000 W
+
+read1000 R
+
+readdata D
+
+invalid I
+
+ready_w1 0xAA = 170
+
+continue C
+
+stop S
+
+finishw1 0xAB = 171
+
+ready_r1 0xBA = 186
+
+finishr1 0xBB = 187
+ 
+ready_rd 0xCA = 202
+
+finishrd 0xCB = 203
+
+error E
