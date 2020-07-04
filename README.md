@@ -19,3 +19,6 @@ An eeprom memory 24LC256 is managed through I2C to write 1000 data memory, read 
 **Gina Catalina Baquero Mojica** - *Main team*
 **Juan Sebastian Barreto Jiménez** - *Main team* - [juansebasbarreto](https://github.com/juansebasbarreto)
 **Juan Pablo Clavijo Caceres** - *Main team* 
+
+## Licencia 📄
+Este proyecto está bajo la Licencia (Creative Commons Legal Code) - mira el archivo [LICENSE.md] para detalles
